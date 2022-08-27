@@ -50,8 +50,8 @@
 
     <TextView
         android:id="@+id/textview_first8"
-        android:layout_width="105dp"
-        android:layout_height="95dp"
+        android:layout_width="128dp"
+        android:layout_height="77dp"
         android:layout_marginTop="12dp"
         android:gravity="center"
         android:text="@string/discover_card_body"
@@ -92,9 +92,10 @@
 
     <TextView
         android:id="@+id/textview_first5"
-        android:layout_width="125dp"
-        android:layout_height="59dp"
+        android:layout_width="157dp"
+        android:layout_height="76dp"
         android:layout_marginTop="148dp"
+        android:gravity="center"
         android:text="@string/capitalone_savorone_card_title"
         android:textColor="@android:color/darker_gray"
         android:textSize="24sp"
@@ -109,6 +110,7 @@
         android:layout_width="85dp"
         android:layout_height="36dp"
         android:layout_marginTop="328dp"
+        android:gravity="center"
         android:text="@string/venmo_card_title"
         android:textColor="@android:color/darker_gray"
         android:textSize="24sp"
@@ -123,6 +125,7 @@
         android:layout_width="104dp"
         android:layout_height="31dp"
         android:layout_marginTop="160dp"
+        android:gravity="center"
         android:text="@string/discover_card_title"
         android:textColor="@android:color/darker_gray"
         android:textSize="24sp"
