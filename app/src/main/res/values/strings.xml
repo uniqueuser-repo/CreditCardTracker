@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Credit Card Tracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="citi_card_title">Citi</string>
+    <string name="citi_card_body">5% any category (restaurants)</string>
+
+    <string name="capitalone_card_title">CapitalOne Quicksilver</string>
+    <string name="capitalone_card_body">1.5% anything</string>
+
+    <string name="capitalone_savorone_card_title">CapitalOne Savorone</string>
+    <string name="capitalone_savorone_card_body">3% entertainment/streaming services and grocery stores</string>
+
+    <string name="discover_card_title">Discover</string>
+    <string name="discover_card_body">5% google pay (oct1-dec31\'22)</string>
+
+    <string name="venmo_card_title">Venmo</string>
+    <string name="venmo_card_body">3% top category (gas)</string>
+</resources>
